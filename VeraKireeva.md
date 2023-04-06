@@ -26,7 +26,9 @@ MONOPOLY is a transport and logistics group of companies that includes:
 
 #### Key achievements
 
-* I created a style guide and rules for communicating with users for Business Support Department.
+* I created a style guide and rules for communicating with users
+  for the Business Support Department.
+  It helped them improve ... and reduce ...
 * I redesigned and structured the technical and customer support knowledge base.
 * Together with colleagues, we optimized several business processes for technical and customer support (for example, interaction with the system administration department and the operations department).
 
