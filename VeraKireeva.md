@@ -36,7 +36,10 @@ MONOPOLY is a transport and logistics group of companies that includes:
 #### Avito 
 *October 2018 — October 2021*
 
-Avito is Russian leading classified ads website, where users can buy and sell second-hand items, find a job, rent a home or buy a car. The site has almost 280 million visits per month.
+Avito is a leading classified ads website in Russia,
+where users can buy and sell second-hand items,
+find a job, rent a home, or buy a car.
+Avito has almost 280 million visits per month.
 
 **My responsibilities included:**
 
