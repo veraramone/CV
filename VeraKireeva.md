@@ -86,8 +86,8 @@ and the percentage of support calls after viewing articles decreased.
 #### Bashkir State University
 *September 2007 — June 2012*
 
-### Python: "100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu.
+### 100 Days of Code: The Complete Python Pro Bootcamp
 (link to GitHub)
 
-### API documentation: "Documenting APIs: A guide for technical writers and engineers" by Tom Johnson.
+### Documenting APIs: A guide for technical writers and engineers by Tom Johnson
 (link to GitHub)
