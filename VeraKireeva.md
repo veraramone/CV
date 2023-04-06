@@ -60,3 +60,9 @@ Avito has almost 280 million visits per month.
 ### Bachelor of Russian Philology
 #### Bashkir State University
 *September 2007 — June 2012*
+
+### Python ...
+(link to GitHub)
+
+### API documentation
+(link to GitHub)
