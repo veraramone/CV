@@ -17,7 +17,7 @@ MONOPOLY is a transport and logistics group of companies that includes:
 * The Monopoly.Online digital platform, which combines all the necessary services for the cargo transportation.
 * Freight carrier Monopoly, which owns and manages fleet of vehicles and drivers.
 
-**My responsibilities include:**
+#### Responsibilities
 
 * creating and maintaining editorial policy for Business Support Department;
 * writing and maintaining regulations and instructions for technical support and customer support employees;
