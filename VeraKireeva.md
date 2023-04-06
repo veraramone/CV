@@ -24,7 +24,7 @@ MONOPOLY is a transport and logistics group of companies that includes:
 * writing and maintaining user instructions for the internal knowledge base;
 * planning and optimization of technical support and customer support business processes.
 
-**Key achievements:**
+#### Key achievements
 
 * I created a style guide and rules for communicating with users for Business Support Department.
 * I redesigned and structured the technical and customer support knowledge base.
