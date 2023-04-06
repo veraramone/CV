@@ -4,8 +4,9 @@
 
 My work tools: Google Docs, Confluence, Jira, Git.
 
-Currently I'm learning Python and API documentation.
-I understand the docs-as-code approach and I'm ready to follow it in my work.
+Currently, I'm learning Python and API documentation.
+I understand the docs-as-code approach and look for 
+an opportunity to implement it in my work.
 
 ## Experience 
 
