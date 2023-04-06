@@ -89,5 +89,5 @@ and the percentage of support calls after viewing articles decreased.
 ### 100 Days of Code: The Complete Python Pro Bootcamp
 (link to GitHub)
 
-### Documenting APIs: A guide for technical writers and engineers by Tom Johnson
+### Documenting APIs: A guide for technical writers and engineers
 (link to GitHub)
