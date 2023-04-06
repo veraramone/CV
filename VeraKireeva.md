@@ -10,8 +10,7 @@ an opportunity to implement it in my work.
 
 ## Experience 
 
-### Technical writer
-#### MONOPOLY Group  
+### Technical writer at MONOPOLY Group
 *November 2021 — Present*
 
 MONOPOLY is a transport and logistics group of companies that includes:
