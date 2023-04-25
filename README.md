@@ -87,7 +87,7 @@ and the percentage of support calls after viewing articles decreased.
 *September 2007 — June 2012*
 
 ### 100 Days of Code: The Complete Python Pro Bootcamp
-(link to GitHub)
+(www.udemy.com/course/100-days-of-code)[https://www.udemy.com/course/100-days-of-code/]
 
 ### Documenting APIs: A guide for technical writers and engineers
-(link to GitHub)
+(idratherbewriting.com/learnapidoc)[https://idratherbewriting.com/learnapidoc/]
