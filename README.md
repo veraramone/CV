@@ -23,7 +23,7 @@ MONOPOLY is a transport and logistics group of companies that includes:
 
 * Creating and maintaining editorial policy for Business Support Department.
 * Writing and maintaining regulations and instructions
-for Technical Support and Customer Support employees.
+  for Technical Support and Customer Support employees.
 * Writing and maintaining user instructions for the internal knowledge base.
 * Planning and optimization of technical support and customer support business processes.
 
