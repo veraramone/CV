@@ -21,14 +21,14 @@ MONOPOLY is a transport and logistics group of companies that includes:
 
 #### Responsibilities
 
-Creating and maintaining editorial policy for Business Support Department.
+* Creating and maintaining editorial policy for Business Support Department.
 
-Writing and maintaining regulations and instructions
+* Writing and maintaining regulations and instructions
 for Technical Support and Customer Support employees.
 
-Writing and maintaining user instructions for the internal knowledge base.
+* Writing and maintaining user instructions for the internal knowledge base.
 
-Planning and optimization of technical support and customer support business processes.
+* Planning and optimization of technical support and customer support business processes.
 
 #### Key achievements
 
@@ -51,22 +51,22 @@ Avito has almost 280 million visits per month.
 
 #### Responsibilities
 
-Creating and maintaining user instructions for the knowledge base
+* Creating and maintaining user instructions for the knowledge base
 of the help center for customers.
 
-Developing solutions to user problems together with the product team.
+* Developing solutions to user problems together with the product team.
 
-Writing answer templates for customer support.
+* Writing answer templates for customer support.
 
-Creating and maintaining editorial policy for the Client Service Centre.
+* Creating and maintaining editorial policy for the Client Service Centre.
 
-Participating in service automation projects:
+* Participating in service automation projects:
 writing auto-responses for a chatbot and a voice bot, working on scripts.
 
-Participating in user experience research
+* Participating in user experience research
 (using statistical reports to evaluate key user experience metrics).
 
-Creating guidelines for the content department employees.
+* Creating guidelines for the content department employees.
 
 #### Key achievements
 
